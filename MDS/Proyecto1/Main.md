@@ -14,7 +14,7 @@
 
 <a name="1.1"></a>
 ### Requerimientos del cliente
-<img src="../img/req.png">
+<img src="img/req.png">
 
 <a name="1.2"></a>
 ### Diseño
