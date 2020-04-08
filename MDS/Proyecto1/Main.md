@@ -2,8 +2,6 @@
 > Este documento sera sujeto a cambio en el transcurso del desarrollo del proyecto
 
 
-
-
 *Indice*
 
 1.1 [Requerimientos](#1.1)
@@ -16,6 +14,9 @@
 
 <a name="1.1"></a>
 ### Requerimientos del cliente
-<img src="req.png">
+<img src="../img/req.png">
 
+<a name="1.2"></a>
+### Diseño
+> Pendiente
     
