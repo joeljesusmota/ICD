@@ -1,4 +1,4 @@
-### Descripcion del proyecto y la metodologia RUD que aplicaremos
+### Archivo principal del proyecto y la metodologia RUP que aplicaremos
 > Este documento sera sujeto a cambio en el transcurso del desarrollo del proyecto
 
 
