@@ -1,2 +1,0 @@
-# Introduccion al Desarrollo Movil
-
