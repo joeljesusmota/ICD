@@ -1,0 +1,1 @@
+[App de notas Parte-2](https://docs.microsoft.com/en-us/xamarin/get-started/quickstarts/multi-page?pivots=windows)

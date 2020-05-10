@@ -1,0 +1,8 @@
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\optimized\
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\BaseballScout.iOS.csprojAssemblyReference.cache
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout.iOS\obj\iPhone\Debug\BaseballScout.iOS.csproj.CoreCompileInputs.cache

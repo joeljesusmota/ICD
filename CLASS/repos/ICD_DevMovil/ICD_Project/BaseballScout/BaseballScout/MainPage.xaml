@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="BaseballScout.MainPage">
+
+    <StackLayout>
+        
+        <Label 
+           Text="BASEBALL SCOUT"
+           TextColor="White"
+           FontSize="40"
+           FontFamily=""
+           HorizontalTextAlignment="Center"
+           VerticalTextAlignment="Center"
+           HorizontalOptions="Fill"
+           BackgroundColor="#FF458A1A" 
+           HeightRequest="75" />
+
+        
+        <Button 
+             x:Name="BtnPlayer"
+             Text="Player"
+             TextColor="White"
+             FontSize="30"
+             BackgroundColor="#FF458A1A"
+             BorderWidth="60"
+             CornerRadius="30"
+             Margin="10,145,10,25"
+             WidthRequest="100"
+             HeightRequest="75" />
+        
+        <Button 
+             x:Name="BtnRegister"
+             Text="Register"
+             TextColor="White"
+             FontSize="30"
+             BackgroundColor="#FF0088CC"
+             BorderWidth="60"
+             CornerRadius="30"
+             Margin="10,45,10,25"
+             WidthRequest="150"
+             HeightRequest="75" />
+
+        <Button              
+             x:Name="BtnConfig"
+             Text="Config"
+             FontSize="20"
+             BackgroundColor="Gray"
+             Margin="30,45,30,25"
+             WidthRequest="150"
+             HeightRequest="75" 
+             BorderColor="Black" 
+             BorderWidth="2"/>
+
+    </StackLayout>
+
+</ContentPage>

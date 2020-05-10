@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BaseballScout.PlayerPage">
+    <StackLayout>
+
+        <Label 
+           Text="PLAYERS"
+           TextColor="White"
+           FontSize="40"
+           FontFamily=""
+           HorizontalTextAlignment="Center"
+           VerticalTextAlignment="Center"
+           HorizontalOptions="Fill"
+           BackgroundColor="#FF458A1A" 
+           HeightRequest="75" />
+        
+        <Button 
+             Text="+"
+             TextColor="White"
+             FontSize="30"                          
+             Font="Bold,20"
+             BackgroundColor="Blue" 
+             BorderWidth="60"
+             CornerRadius="30"
+             Margin="5,0,300,0"
+             WidthRequest="50"
+             HeightRequest="50" />
+
+
+        <ListView>
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Joel Mota</x:String>
+                    <x:String>Jomil Mota</x:String>
+                    <x:String>Hector Rodriguez</x:String>
+                </x:Array>
+            </ListView.ItemsSource>
+        </ListView>
+        
+        <ListView ItemsSource="{Binding Players}" />
+    </StackLayout>
+</ContentPage>

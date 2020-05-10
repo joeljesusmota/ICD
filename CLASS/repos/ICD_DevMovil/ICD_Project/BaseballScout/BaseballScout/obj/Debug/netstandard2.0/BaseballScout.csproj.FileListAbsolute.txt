@@ -1,0 +1,14 @@
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\bin\Debug\netstandard2.0\BaseballScout.deps.json
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\bin\Debug\netstandard2.0\BaseballScout.dll
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\bin\Debug\netstandard2.0\ref\BaseballScout.dll
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\bin\Debug\netstandard2.0\BaseballScout.pdb
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\PlayerPage.xaml.g.cs
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\BaseballScout.csproj.CoreCompileInputs.cache
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\BaseballScout.AssemblyInfoInputs.cache
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\BaseballScout.AssemblyInfo.cs
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\BaseballScout.dll
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\ref\BaseballScout.dll
+C:\jm\ICD\ICD_DevMovil\ICD_Project\BaseballScout\BaseballScout\obj\Debug\netstandard2.0\BaseballScout.pdb

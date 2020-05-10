@@ -1,0 +1,204 @@
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.exe
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.deps.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.dev.json
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.pdb
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.Views.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.Views.pdb
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csprojAssemblyReference.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CoreCompileInputs.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.MvcApplicationPartsAssemblyInfo.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorAssemblyInfo.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorAssemblyInfo.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfoInputs.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfo.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.TagHelpers.input.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.TagHelpers.output.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorCoreGenerate.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorTargetAssemblyInfo.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorTargetAssemblyInfo.cs
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.Views.pdb
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\staticwebassets\Ventas.StaticWebAssets.Manifest.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\staticwebassets\Ventas.StaticWebAssets.xml
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.dll
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.pdb
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.genruntimeconfig.cache
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CopyComplete
+<<<<<<< HEAD
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Carts.cshtml.g.cs
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\jm\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\jm\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Bill\Bill.cshtml.g.cs
+=======
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.exe
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.deps.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.runtimeconfig.dev.json
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.Views.dll
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\bin\Debug\netcoreapp3.1\Ventas.Views.pdb
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csprojAssemblyReference.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorAssemblyInfo.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorAssemblyInfo.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfoInputs.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.AssemblyInfo.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.TagHelpers.input.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.TagHelpers.output.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorCoreGenerate.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Home\BooksDetails.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorTargetAssemblyInfo.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.RazorTargetAssemblyInfo.cs
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.Views.pdb
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\staticwebassets\Ventas.StaticWebAssets.Manifest.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\staticwebassets\Ventas.StaticWebAssets.xml
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.dll
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.pdb
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.genruntimeconfig.cache
+C:\Users\raymo\Desktop\Metodología de programación\ICD_MDS\Ventas\obj\Debug\netcoreapp3.1\Ventas.csproj.CopyComplete
+>>>>>>> e48a7ea103db9a2ca45fab81a2c47611fb4f4af5

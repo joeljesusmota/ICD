@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EgGbIR15FM72jB1drjoLc2uQMdV1dCQ9ZGBXYQfAsIhmtGVhapjX2H5DA0awcaZ9AFq2k2g1DqQd6ZIowGAYA==",
+  "success": true,
+  "projectFilePath": "C:\\jm\\ICD\\ICD_DevMovil\\ICD_Project\\BaseballScout\\BaseballScout\\BaseballScout.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CZ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CZ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CZ\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

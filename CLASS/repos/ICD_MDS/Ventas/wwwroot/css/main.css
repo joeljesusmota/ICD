@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-flow: row wrap;
+    flex: 200px;
+}
+
+.cardJM {
+    height: 100%;
+    width: 300px;
+    margin: 10px;
+    padding: 5px;
+    border: 5px solid black;
+    background-color: #1A73E8;
+    border-radius: 5px;
+  }
+
+  .cardJM:hover {
+    background-color: red;
+    
+  }
+
+  .cardJM h2, span{
+    display: inline;
+    color: rgb(190, 224, 38);
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    font-family: 'Bangers', cursive;
+  }
+
+  .cardJM p {
+    font-family: 'Sen', sans-serif;  }
+
+  .cardJM img {
+    height: 140px;
+    width:  110px;
+  }
+
+  .cardJM .miniCard{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+    display: block;
+    }
+
+  .cardJM .miniCard img{
+    height: 70px;
+    width:  50px;
+    display: inline;
+
+    
+  }
