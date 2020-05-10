@@ -1,8 +1,0 @@
-- Creando app de consola
-- Entrada y salida de datos
-- Conversion de datos 
-- Nociones de POO
-- Creando una calculadora
-- Array
-- Trabajando con archivos
-- App de facturacion
